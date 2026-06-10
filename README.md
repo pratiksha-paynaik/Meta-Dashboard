@@ -10,7 +10,7 @@ An interactive Power BI dashboard designed to analyze advertising performance ac
 
 ## Purpose
 
-The Meta Ads Performance Dashboard helps marketers evaluate campaign performance across the entire marketing funnel—from impressions and clicks to engagements, conversions, and purchases. The dashboard enables data-driven decision-making by identifying high-performing audiences, ad formats, and optimization opportunities.
+The Meta Ads Performance Dashboard helps marketers evaluate campaign performance across the entire marketing funnel. From impressions and clicks to engagements, conversions, and purchases. The dashboard enables data-driven decision-making by identifying high-performing audiences, ad formats, and optimization opportunities.
 
 ---
 
